@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-05-24T19:39:00.509951",
+  "start_time": "2026-05-24T19:37:49.537978",
+  "end_time": "2026-05-24T19:38:54.570692",
+  "duration_seconds": 65.03,
+  "throughput": {
+    "mbps": 0.0322,
+    "bytes_per_second": 4216.29,
+    "total_bytes": 274197
+  },
+  "latency": {
+    "max_ms": 49056.3,
+    "avg_ms": 26010.56,
+    "min_ms": 5995.99
+  },
+  "messages": {
+    "total": 637,
+    "per_second": 9.8
+  },
+  "consumers": {
+    "reddit-processors": 637
+  }
+}

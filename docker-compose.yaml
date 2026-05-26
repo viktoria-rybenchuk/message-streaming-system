@@ -6,7 +6,6 @@ volumes:
   kafka-data:
 
 services:
-  # Single Kafka broker (KRaft mode)
   kafka:
     image: confluentinc/cp-kafka:7.8.0
     hostname: kafka
